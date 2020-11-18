@@ -1,0 +1,25 @@
+main {
+    background-color: #8087b1;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: 'Dosis', sans-serif;
+    background-color: #c7b0c2;
+    padding: 1%;
+}
+nav {
+    display: grid;
+    grid-template-columns: 5% 5% 5% 85%;
+    }
+header h1 {
+    font-size: 32px;
+}
+main {
+    font-family: 'Playfair Display', serif;
+    padding: 2%;
+}
